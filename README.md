@@ -63,25 +63,7 @@ Mini-projects demonstrating:
 
 ---
 
-## 🌱 Currently Learning  
-- Cloud (AWS & Vercel)  
-- More advanced ML image models  
-- Improving backend architecture & testing  
-
----
-
-## 💡 What I’m Looking For  
-A junior role in:
-- Backend engineering  
-- Python development  
-- Full-Stack development  
-- AI / Data roles  
-- Creative tech roles  
-
-I love roles where I get to learn quickly, collaborate with smart people, and build things that matter.
 
 
 
-
-<p align="center">✨ Thanks for visiting my GitHub — feel free to reach out or explore my work! ✨</p>
 
