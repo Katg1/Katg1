@@ -3,11 +3,11 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 I'm a recent Software Engineering graduate (2:1) with a passion for building **clean, meaningful, and creative software**.  
 I love working at the intersection of **AI, music, art, and engineering** — and I’m most proud of completing a dissertation project that generates **abstract images from musical features** using Python and computational creativity techniques.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### **Languages**
 - Python  
@@ -33,9 +33,9 @@ I love working at the intersection of **AI, music, art, and engineering** — an
 
 ---
 
-## 📌 Fav Projects
+##  Fav Projects
 
-### 🎨 **Music → Abstract Images (Creative AI System)**  
+###  **Music → Abstract Images (Creative AI System)**  
 A rule-based Python system that transforms MIDI musical features into abstract images using:
 - HLS color mapping  
 - Emotional color palettes  
@@ -44,7 +44,7 @@ A rule-based Python system that transforms MIDI musical features into abstract i
 
 ---
 
-### 🌐 **Full-Stack Web Projects (Next.js + Supabase)**  
+###  **Full-Stack Web Projects (Next.js + Supabase)**  
 A collection of clean, modern, employer-ready web applications showcasing:
 - Authentication  
 - Database modeling  
@@ -54,7 +54,7 @@ Projects include dashboards, booking systems, and interactive tools.
 
 ---
 
-### 🧠 **Algorithms + Python Portfolio**  
+###  **Algorithms + Python Portfolio**  
 Mini-projects demonstrating:
 - Optimization (e.g., Multi-Knapsack problem)
 - Data visualization  
