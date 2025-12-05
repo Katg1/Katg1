@@ -1,16 +1,87 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Kate 👋</h1>
+<h3 align="center">Junior Software Engineer | Python & JavaScript | AI, Web, and Creative Tech</h3>
 
-<!--
-**Katg1/Katg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+I'm a recent Software Engineering graduate (2:1) with a passion for building **clean, meaningful, and creative software**.  
+I love working at the intersection of **AI, music, art, and engineering** — and I’m most proud of completing a dissertation project that generates **abstract images from musical features** using Python and computational creativity techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### **Languages**
+- Python  
+- JavaScript / TypeScript  
+- SQL  
+- HTML/CSS
+- SNS
+
+### **Frameworks & Tools**
+- **React / Next.js**
+- **Prisma**
+- **Supabase**
+- Node.js  
+- Docker  
+- Git & GitHub  
+
+### **AI / Data**
+- NumPy / Pandas  
+- Librosa  
+- Matplotlib  
+- Jupyter Notebook  
+- Basic ML (classification, feature extraction)
+
+---
+
+## 📌 Fav Projects
+
+### 🎨 **Music → Abstract Images (Creative AI System)**  
+A rule-based Python system that transforms MIDI musical features into abstract images using:
+- HLS color mapping  
+- Emotional color palettes  
+- Feature extraction (melody, harmony, dynamics)  
+- Visual composition rules  
+
+---
+
+### 🌐 **Full-Stack Web Projects (Next.js + Supabase)**  
+A collection of clean, modern, employer-ready web applications showcasing:
+- Authentication  
+- Database modeling  
+- API routes  
+- Responsive UIs  
+Projects include dashboards, booking systems, and interactive tools.
+
+---
+
+### 🧠 **Algorithms + Python Portfolio**  
+Mini-projects demonstrating:
+- Optimization (e.g., Multi-Knapsack problem)
+- Data visualization  
+- Clean Python structures  
+- Readable documentation  
+
+---
+
+## 🌱 Currently Learning  
+- Cloud (AWS & Vercel)  
+- More advanced ML image models  
+- Improving backend architecture & testing  
+
+---
+
+## 💡 What I’m Looking For  
+A junior role in:
+- Backend engineering  
+- Python development  
+- Full-Stack development  
+- AI / Data roles  
+- Creative tech roles  
+
+I love roles where I get to learn quickly, collaborate with smart people, and build things that matter.
+
+
+
+
+<p align="center">✨ Thanks for visiting my GitHub — feel free to reach out or explore my work! ✨</p>
+
