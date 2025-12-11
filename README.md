@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kate 👋</h1>
+<h1 align="center">Hi</h1>
 <h3 align="center">Junior Software Engineer | Python & JavaScript | AI, Web, and Creative Tech</h3>
 
 ---
